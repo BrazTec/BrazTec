@@ -2,7 +2,7 @@
 
 **Ciência da Computação | Dados, BI e Automação | Python • SQL**
 
-Sou estudante de **Ciência da Computação na Faculdade Impacta**, com conclusão prevista para **julho de 2027**, e formado como **Técnico em Mecatrônica pela ETEC Getúlio Vargas**.
+Sou estudante de **Ciência da Computação na Faculdade Impacta**, com conclusão prevista para **julho de 2027** e formado como **Técnico em Mecatrônica pela ETEC Getúlio Vargas**.
 
 Minha trajetória profissional passou por manutenção eletroeletrônica e metrologia antes de chegar à área de Dados. Entre **outubro de 2024 e outubro de 2026**, atuei na **ENEL Brasil**, nas equipes de *Customer Intelligence* e *Data & Intelligence*, trabalhando com qualidade e governança de dados, consultas SQL, automação de processos, ETL e indicadores para apoiar decisões de negócio.
 
