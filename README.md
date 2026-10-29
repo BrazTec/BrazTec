@@ -35,7 +35,6 @@ Repositórios de estudo sobre **listas encadeadas, pilhas, filas e fundamentos d
 ## 🚀 Projetos em evolução no portfólio
 
 - **Mini CNC Plotter com software de controle:** sistema funcional que reúne construção mecânica e eletrônica, Arduino e aplicação Python para tratamento de imagens, geração de G-code, simulação e calibração visual em nove pontos. **Preparando a publicação do software e de sua documentação no GitHub.**
-- **Machine Learning — predição de churn:** estudo acadêmico com preparação de dados, treinamento e comparação de modelos de classificação. **Em desenvolvimento e aguardando a entrega final para publicação.**
 - **Sistema Kanban para cafeteria:** TCC de Ciência da Computação voltado ao fluxo de solicitações entre atendimento e produção. **Em desenvolvimento.**
 
 ## 🎯 Direcionamento profissional
