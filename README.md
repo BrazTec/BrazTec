@@ -20,6 +20,10 @@ Gosto de entender como os processos funcionam e transformar problemas em soluç�
 
 Compilador educacional com **análise léxica, sintática e semântica**, geração de **código intermediário (IR/TAC)** e otimizações. O repositório inclui documentação técnica, casos de teste e instruções de execução.
 
+### [Telco Customer Churn — Machine Learning com Python](https://github.com/BrazTec/telco-customer-churn)
+
+Projeto acadêmico de classificação de churn em telecomunicações com Python, Pandas e scikit-learn. Abrange análise exploratória, preparação de dados, engenharia de atributos, treinamento e comparação de quatro modelos, tratamento do desbalanceamento de classes, validação cruzada e otimização de hiperparâmetros com GridSearchCV. O repositório disponibiliza notebook executado, documentação metodológica, resultados e instruções de reprodução.
+
 ### [R.POO.G — RPG ASCII em C++](https://github.com/BrazTec/Game_ASCII-R.POO.G)
 
 Jogo de terminal com **combate por turnos e cenários ASCII**, desenvolvido como projeto acadêmico para aplicar **abstração, herança, encapsulamento e polimorfismo**.
