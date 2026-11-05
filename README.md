@@ -11,7 +11,8 @@ Gosto de entender como os processos funcionam e transformar problemas em soluç�
 ## 🛠️ Tecnologias e conhecimentos
 
 - **Dados e BI:** SQL, Python, Pandas, Amazon Redshift, Power BI, Excel, ETL, Jupyter e Data Quality.
-- **Programação e automação:** Python, C, C++, Java (estudos), Programação Orientada a Objetos, Arduino, G-code e Git.
+- **Programação e automação:** Python, C, C++, Java (estudos), Programação Orientada a Objetos, G-code e Git.
+- **Aplicações e visão computacional:** Python/PySide6, OpenCV, processamento de imagens, integração local de modelos pré-treinados de segmentação, Arduino e comunicação serial, aplicados no Mini CNC Controller.
 - **Em aprofundamento acadêmico:** estatística, Machine Learning, Big Data, computação em nuvem e segurança da informação.
 
 ## 📌 Projetos em destaque
@@ -24,6 +25,12 @@ Compilador educacional com **análise léxica, sintática e semântica**, geraç
 
 Projeto acadêmico de classificação de churn em telecomunicações com Python, Pandas e scikit-learn. Abrange análise exploratória, preparação de dados, engenharia de atributos, treinamento e comparação de quatro modelos, tratamento do desbalanceamento de classes, validação cruzada e otimização de hiperparâmetros com GridSearchCV. O repositório disponibiliza notebook executado, documentação metodológica, resultados e instruções de reprodução.
 
+### [Mini CNC Controller — visão computacional e integração com Arduino](https://github.com/BrazTec/CNC-Controller)
+
+Projeto pessoal que integra um **aplicativo Windows em Python/PySide6** a um **mini plotter XYZ construído com mecanismos reaproveitados de DVD e disquete**. Reúne processamento de imagens, máscaras e camadas, integração de modelos pré-treinados de segmentação, planejamento de trajetórias, geração e edição de G-code, simulação, controle serial com **Arduino/GRBL** e calibração Z 3×3.
+
+O portfólio apresenta **construção, decisões técnicas, relatório ilustrado, fotos e cinco vídeos de funcionamento**. O aplicativo e seu código-fonte permanecem privados. [Ver projeto e demonstrações](https://github.com/BrazTec/CNC-Controller).
+
 ### [R.POO.G — RPG ASCII em C++](https://github.com/BrazTec/Game_ASCII-R.POO.G)
 
 Jogo de terminal com **combate por turnos e cenários ASCII**, desenvolvido como projeto acadêmico para aplicar **abstração, herança, encapsulamento e polimorfismo**.
@@ -31,7 +38,6 @@ Jogo de terminal com **combate por turnos e cenários ASCII**, desenvolvido como
 
 ## 🚀 Projetos em evolução no portfólio
 
-- **Mini CNC Plotter com software de controle:** sistema funcional que reúne construção mecânica e eletrônica, Arduino e aplicação Python para tratamento de imagens, geração de G-code, simulação e calibração visual em nove pontos. **Preparando a publicação do software e de sua documentação no GitHub.**
 - **Sistema Kanban para cafeteria:** TCC de Ciência da Computação voltado ao fluxo de solicitações entre atendimento e produção. **Em desenvolvimento.**
 
 ## 🎯 Direcionamento profissional
