@@ -28,9 +28,6 @@ Projeto acadêmico de classificação de churn em telecomunicações com Python,
 
 Jogo de terminal com **combate por turnos e cenários ASCII**, desenvolvido como projeto acadêmico para aplicar **abstração, herança, encapsulamento e polimorfismo**.
 
-### [Estudos de estruturas de dados em Java](https://github.com/BrazTec?tab=repositories)
-
-Repositórios de estudo sobre **listas encadeadas, pilhas, filas e fundamentos de programação**, com anotações e exemplos para consulta e aprendizado.
 
 ## 🚀 Projetos em evolução no portfólio
 
